@@ -1,0 +1,56 @@
+{
+  "uid" : "205cbef43e03921",
+  "name" : "test_thre",
+  "fullName" : "test_Allure.test_allure#test_thre",
+  "historyId" : "43d33e7293ef3f006ed2a7afed06e6aa",
+  "time" : {
+    "start" : 1646640257173,
+    "stop" : 1646640257173,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "p0"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_Allure"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BK91FEF"
+  }, {
+    "name" : "thread",
+    "value" : "56124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Allure.test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "p0" ]
+  },
+  "source" : "205cbef43e03921.json",
+  "parameterValues" : [ ]
+}

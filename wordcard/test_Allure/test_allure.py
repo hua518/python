@@ -56,8 +56,10 @@ from requests import exceptions
 
 # test_serchword()
 # download_image_improve()
+@pytest.mark.p0
 def test_one():
     print("xinjian")
+@pytest.mark.p0
 def test_two():
     print("2")
     # try:
@@ -66,7 +68,7 @@ def test_two():
     # except exceptions as e:
     #     print("1")
     #     raise e
-
+@pytest.mark.p0
 def test_thre():
     h=1
     assert(h == 1)
