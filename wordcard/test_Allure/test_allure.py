@@ -73,7 +73,7 @@ def test_thre():
 
 if __name__ =="__main__":
     pytest.main(['-s'])
-# os.system("pytest test_allure --alluredir ./result/")执行生成报告
+# os.system("pytest test_Allure --alluredir ./result/")#执行生成报告
 # os.system("allure generate ./result/ -o ./result/report/ --clean")
 
 
