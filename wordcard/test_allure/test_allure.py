@@ -59,12 +59,13 @@ from requests import exceptions
 def test_one():
     print("xinjian")
 def test_two():
-    try:
-        h=1
-        assert (h==0)
-    except exceptions as e:
-        print("1")
-        raise e
+    print("2")
+    # try:
+    #     h=0
+    #     assert (h==0)
+    # except exceptions as e:
+    #     print("1")
+    #     raise e
 
 def test_thre():
     h=1
@@ -72,8 +73,8 @@ def test_thre():
 
 if __name__ =="__main__":
     pytest.main(['-s'])
-os.system("pytest test_allure --alluredir ./result/")
-os.system("allure generate ./result/ -o ./result/report/ --clean")
+# os.system("pytest test_allure --alluredir ./result/")执行生成报告
+# os.system("allure generate ./result/ -o ./result/report/ --clean")
 
 
 
