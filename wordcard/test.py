@@ -1,2 +1,2 @@
-from test_allure import Smtp_邮件发送
-Smtp_邮件发送
+from test_allure import test_Smtp
+test_Smtp

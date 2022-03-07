@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505c9b07-b61f-4e7a-baec-3e590a688246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_allure/jmeter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_allure/Smtp_邮件发送.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_allure/test_Smtp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,11 +107,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="11" />
           <entry key="py" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="11" />
           <entry key="Python" value="31" />
         </counts>
       </usages-collector>
@@ -163,11 +165,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_allure/Smtp_邮件发送.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_allure/test_Smtp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-58">
-              <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+            <state relative-caret-position="242">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#19#32#0" expanded="true" />
               </folding>
@@ -175,7 +177,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
@@ -262,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-216" />
     <option name="y" value="96" />
     <option name="width" value="1377" />
@@ -369,7 +371,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_allure/Smtp_邮件发送.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\MB\Documents\python\wordcard\test_allure\test_Smtp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -575,15 +577,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49357328" visible="true" weight="0.24032739" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49357328" visible="true" weight="0.24032739" />
       <window_info id="Structure" order="1" sideWeight="0.50642675" side_tool="true" weight="0.24032739" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.34300342" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.66592264" visible="true" weight="0.32991454" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66592264" visible="true" weight="0.32991454" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -692,16 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_allure/Smtp_邮件发送.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
-          <folding>
-            <element signature="e#19#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jmeter.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -713,6 +705,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_allure/test_Smtp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#19#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
