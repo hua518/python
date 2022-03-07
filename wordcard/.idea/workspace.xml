@@ -2,13 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505c9b07-b61f-4e7a-baec-3e590a688246" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_allure/Smtp邮件发送.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/Smtp邮件发送.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_allure/jmeter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/jmeter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_allure/logTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/logTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_allure/test_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/test_allure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/验证pytest/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/验证pytest/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/MB.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/.idea/dictionaries/MB.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/报告及log.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/.idea/报告及log.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask框架/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/flask框架/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask框架/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/flask框架/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmeter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/jmeter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/Smtp邮件发送.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/test_Allure/Smtp邮件发送.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/jmeter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/test_Allure/jmeter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/logTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/test_Allure/logTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/result/report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/test_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/test_Allure/test_allure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/验证pytest/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/验证pytest/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/验证pytest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_wordcard/验证pytest/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,11 +181,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../test_wordcard/test_Allure/test_allure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="75" selection-start-line="75" selection-start-column="2" selection-end-line="76" selection-end-column="68" />
+            <state relative-caret-position="96">
+              <caret line="76" column="66" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="66" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1646637714014" expanded="true" signature="664:671" ph="..." />
@@ -147,7 +196,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/验证pytest/__init__.py">
+        <entry file="file://$PROJECT_DIR$/../test_wordcard/验证pytest/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="15" selection-end-column="15" />
@@ -156,7 +205,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Allure/logTest.py">
+        <entry file="file://$PROJECT_DIR$/../test_wordcard/test_Allure/logTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1300">
               <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
@@ -165,7 +214,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask框架/app.py">
+        <entry file="file://$PROJECT_DIR$/../test_wordcard/flask框架/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1050">
               <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
@@ -178,7 +227,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Allure/Smtp邮件发送.py">
+        <entry file="file://$PROJECT_DIR$/../test_wordcard/test_Allure/Smtp邮件发送.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="142">
               <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
@@ -190,10 +239,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/../test_wordcard/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -201,17 +250,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/验证pytest/1.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test_wordcard/验证pytest/1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jmeter.txt">
+        <entry file="file://$PROJECT_DIR$/../test_wordcard/jmeter.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -330,17 +379,7 @@
           <expand>
             <path>
               <item name="报告及log" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wordcard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="报告及log" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wordcard" type="462c0819:PsiDirectoryNode" />
-              <item name="test_Allure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="报告及log" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wordcard" type="462c0819:PsiDirectoryNode" />
-              <item name="验证pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="test_wordcard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -494,7 +533,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Allure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../test_wordcard/test_Allure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -530,7 +569,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Allure/test_allure.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../test_wordcard/test_Allure/test_allure.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -609,9 +648,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="10" width="1377" height="739" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5762712" visible="true" weight="0.23973115" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5762712" visible="true" weight="0.23973115" />
       <window_info id="Structure" order="1" sideWeight="0.4220963" side_tool="true" weight="0.23973115" />
       <window_info id="Favorites" order="2" sideWeight="0.42372882" side_tool="true" weight="0.23973115" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -622,7 +660,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.3224138" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" x="11" y="271" width="1344" height="186" id="Terminal" order="8" sideWeight="0.4985119" visible="true" weight="0.38965517" />
+      <window_info anchor="bottom" x="11" y="271" width="1344" height="186" id="Terminal" order="8" sideWeight="0.4985119" visible="true" weight="0.38965517" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3340774" side_tool="true" weight="0.33617747" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32405347" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -672,7 +710,7 @@
     <entry file="file://$PROJECT_DIR$/test_wordcard/testf.py" />
     <entry file="file://$PROJECT_DIR$/../untitled/venv/Lib/site-packages/requests/exceptions.py" />
     <entry file="file://$PROJECT_DIR$/test_wordcard/selenium1.png" />
-    <entry file="file://$PROJECT_DIR$/flask框架/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/flask框架/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/flask框架/sys_os.py" />
@@ -681,21 +719,21 @@
     <entry file="file://$PROJECT_DIR$/allure_test/__init__.py" />
     <entry file="file://$PROJECT_DIR$/test_wordcard/jmeter.txt" />
     <entry file="file://$PROJECT_DIR$/test_allure/make_assert.py" />
-    <entry file="file://$PROJECT_DIR$/验证pytest/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/验证pytest/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/logTest.py">
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/test_Allure/logTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1300">
           <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask框架/app.py">
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/flask框架/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
@@ -706,7 +744,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jmeter.txt">
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/jmeter.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -718,7 +756,7 @@
         <state relative-caret-position="-378" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/Smtp邮件发送.py">
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/test_Allure/Smtp邮件发送.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
@@ -728,32 +766,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="75" selection-start-line="75" selection-start-column="2" selection-end-line="76" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1646637714014" expanded="true" signature="664:671" ph="..." />
-            <marker date="1646637714014" expanded="true" signature="1636:1656" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/验证pytest/1.py">
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/验证pytest/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test_wordcard/test_Allure/test_allure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="76" column="66" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1646637714014" expanded="true" signature="664:671" ph="..." />
+            <marker date="1646637714014" expanded="true" signature="1636:1656" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
