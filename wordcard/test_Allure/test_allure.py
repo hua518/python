@@ -58,10 +58,10 @@ from requests import exceptions
 # download_image_improve()
 @pytest.mark.p0
 def test_one():
-    print("xinjian")
+    print("\n输出第一个结果")
 @pytest.mark.p0
 def test_two():
-    print("2")
+    print("输出第二个结果")
     # try:
     #     h=0
     #     assert (h==0)
@@ -75,8 +75,9 @@ def test_thre():
 
 if __name__ =="__main__":
     pytest.main(['-s'])
-# os.system("pytest test_Allure --alluredir ./result/")#执行生成报告
-# os.system("allure generate ./result/ -o ./result/report/ --clean")
+###################执行生成报告#########################
+# os.system("pytest test_Allure --alluredir ./result/")     #####生成result的文件夹并执行allure#########
+# os.system("allure generate ./result/ -o ./result/report/ --clean")######执行生成报告############
 
 
 
