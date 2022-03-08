@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="505c9b07-b61f-4e7a-baec-3e590a688246" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_Allure/test_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/test_allure.py" afterDir="false" />
-    </list>
+    <list default="true" id="505c9b07-b61f-4e7a-baec-3e590a688246" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,10 +87,11 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -113,13 +111,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="py" value="415" />
+          <entry key="py" value="421" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="415" />
+          <entry key="Python" value="421" />
         </counts>
       </usages-collector>
     </session>
@@ -132,7 +130,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="1925">
               <caret line="77" selection-start-line="77" selection-end-line="79" selection-end-column="92" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -177,7 +175,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_Allure/Smtp邮件发送.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="1150">
               <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding>
                 <element signature="e#19#32#0" expanded="true" />
@@ -319,7 +317,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,6 +333,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,7 +376,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_allure.test_one">
+  <component name="RunManager" selected="Python.test">
     <configuration name="Smtp_邮件发送" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="报告及log" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -497,8 +495,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_allure.test_one" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.pytest for test_allure.test_one" />
         <item itemvalue="Python tests.pytest in test_allure.py" />
         <item itemvalue="Python tests.pytest for test_Allure.test_allure.test_two" />
         <item itemvalue="Python.Smtp_邮件发送" />
@@ -561,20 +559,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1377" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5762712" visible="true" weight="0.23973115" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5762712" visible="true" weight="0.23973115" />
       <window_info id="Structure" order="1" sideWeight="0.4220963" side_tool="true" weight="0.23973115" />
       <window_info id="Favorites" order="2" sideWeight="0.42372882" side_tool="true" weight="0.23973115" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3413793" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66592264" weight="0.36206895" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66592264" weight="0.3611111" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.3224138" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" x="11" y="271" width="1344" height="186" id="Terminal" order="8" sideWeight="0.4985119" visible="true" weight="0.3923611" />
+      <window_info active="true" anchor="bottom" x="11" y="271" width="1344" height="186" id="Terminal" order="8" sideWeight="0.4985119" visible="true" weight="0.390625" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3340774" side_tool="true" weight="0.33617747" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32405347" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -634,6 +631,18 @@
     <entry file="file://$PROJECT_DIR$/test_wordcard/jmeter.txt" />
     <entry file="file://$PROJECT_DIR$/test_allure/make_assert.py" />
     <entry file="file://$PROJECT_DIR$/test_Allure/result/report/index.html" />
+    <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1925">
+          <caret line="77" selection-start-line="77" selection-end-line="79" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1646721565705" expanded="true" signature="664:671" ph="..." />
+            <marker date="1646721565705" expanded="true" signature="1670:1696" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/验证pytest/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -659,6 +668,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_Allure/Smtp邮件发送.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding>
+            <element signature="e#19#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/验证pytest/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -670,28 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="77" selection-start-line="77" selection-end-line="79" selection-end-column="92" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1646721565705" expanded="true" signature="664:671" ph="..." />
-            <marker date="1646721565705" expanded="true" signature="1670:1696" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/Smtp邮件发送.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-          <folding>
-            <element signature="e#19#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
