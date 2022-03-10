@@ -68,7 +68,7 @@ def test_two():
     # except exceptions as e:
     #     print("1")
     #     raise e
-
+@pytest.mark.p1
 def test_thre():
     h=1
     assert(h == 1)
