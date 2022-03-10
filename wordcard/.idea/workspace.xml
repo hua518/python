@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505c9b07-b61f-4e7a-baec-3e590a688246" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_Allure/test_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/test_allure.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +88,7 @@
     <session id="1797828277">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -134,12 +133,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+            <state relative-caret-position="150">
+              <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1646899961758" expanded="true" signature="664:671" ph="..." />
-                <marker date="1646899961758" expanded="true" signature="1696:1722" ph="..." />
+                <marker date="1646900490187" expanded="true" signature="664:671" ph="..." />
+                <marker date="1646900490187" expanded="true" signature="1670:1696" ph="..." />
               </folding>
             </state>
           </provider>
@@ -282,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1377" />
     <option name="height" value="735" />
@@ -559,7 +558,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1377" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5762712" visible="true" weight="0.23973115" />
       <window_info id="Structure" order="1" sideWeight="0.4220963" side_tool="true" weight="0.23973115" />
@@ -686,12 +684,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1646899961758" expanded="true" signature="664:671" ph="..." />
-            <marker date="1646899961758" expanded="true" signature="1696:1722" ph="..." />
+            <marker date="1646900490187" expanded="true" signature="664:671" ph="..." />
+            <marker date="1646900490187" expanded="true" signature="1670:1696" ph="..." />
           </folding>
         </state>
       </provider>
