@@ -61,6 +61,8 @@ def test_one():
     print("\n输出第一个结果")
 @pytest.mark.p0
 def test_two():
+    h=0
+    assert (h==1)
     print("输出第二个结果")
     # try:
     #     h=0
@@ -68,7 +70,6 @@ def test_two():
     # except exceptions as e:
     #     print("1")
     #     raise e
-@pytest.mark.p0
 def test_thre():
     h=1
     assert(h == 1)
