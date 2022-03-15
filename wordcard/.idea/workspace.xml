@@ -2,6 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505c9b07-b61f-4e7a-baec-3e590a688246" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Request框架/case.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Request框架/request验证.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端页/前端.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/194a42a8-b231-4915-9df1-b0883dae434b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/31cb16d6-296e-42df-a237-5aba9232fe71-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/44848c63-f32a-410e-9e03-02bf3560ae7e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/5ae5bf2c-9b34-4ef6-aaa3-12b8368389f4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/7b024a3f-508c-43c1-9524-0caa9f699418-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/87a61250-47dd-4457-8a62-96c3fc04bb92-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/934e7e3c-99ac-4a10-a1d8-6b2bd8a2d3ae-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/c4ec0f03-3711-4e3d-a377-556100a3a3d3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ca9d78b9-1e93-4c3b-a47b-b10492d65f71-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/e8fd4288-85cb-4e20-9ed1-7c78d1f6938f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/e9fc1405-8e8a-496f-9f68-e21fd993ace0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/attachments/2aad8154894bbdb7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/attachments/7a83d699dffc6df1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/test-cases/205cbef43e03921.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/test-cases/7bed174774381a4d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/test-cases/c4938feb6a9172e9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Allure/logTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/log.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_Allure/test_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/test_allure.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,39 +147,45 @@
     <session id="1797828277">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="py" value="2" />
+          <entry key="html" value="4" />
+          <entry key="png" value="1" />
+          <entry key="py" value="8" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="2" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="17" />
-          <entry key="py" value="439" />
+          <entry key="dummy" value="32" />
+          <entry key="html" value="78" />
+          <entry key="py" value="1187" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="439" />
+          <entry key="HTML" value="78" />
+          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="Python" value="1187" />
         </counts>
       </usages-collector>
     </session>
@@ -130,56 +195,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+            <state relative-caret-position="175">
+              <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="30" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1646900490187" expanded="true" signature="664:671" ph="..." />
-                <marker date="1646900490187" expanded="true" signature="1670:1696" ph="..." />
+                <marker date="1647245825433" expanded="true" signature="1697:1723" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/验证pytest/__init__.py">
+        <entry file="file://$PROJECT_DIR$/test_Allure/log.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Allure/logTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1300">
-              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask框架/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="452">
+              <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
               <folding>
-                <element signature="e#1#10#0" expanded="true" />
-                <marker date="1646358461352" expanded="true" signature="1460:1461" ph="..." />
+                <marker date="1647225721549" expanded="true" signature="1291:1321" ph="..." />
+                <marker date="1647225721549" expanded="true" signature="1337:1519" ph="..." />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask框架/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Smtp邮件发送.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+            <state relative-caret-position="1025">
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
               <folding>
                 <element signature="e#19#32#0" expanded="true" />
               </folding>
@@ -210,6 +260,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Request框架/request验证.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="69" column="37" lean-forward="true" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+              <folding>
+                <element signature="e#1#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Request框架/selenium1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -223,6 +290,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>os</find>
+      <find>clos</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -231,10 +299,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_wordcard/test.py" />
-        <option value="$PROJECT_DIR$/test_wordcard/1.py" />
-        <option value="$PROJECT_DIR$/1/1.py" />
-        <option value="$PROJECT_DIR$/1/mad.py" />
         <option value="$PROJECT_DIR$/1/ha.py" />
         <option value="$PROJECT_DIR$/word/ha.py" />
         <option value="$PROJECT_DIR$/test_wordcard/test_t.py" />
@@ -277,14 +341,23 @@
         <option value="$PROJECT_DIR$/test_allure/test_allure.py" />
         <option value="$PROJECT_DIR$/验证pytest/test_1.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/前端.html" />
+        <option value="$PROJECT_DIR$/前端页/前端.html" />
+        <option value="$PROJECT_DIR$/test_Allure/logTest.py" />
+        <option value="$PROJECT_DIR$/test_Allure/log.py" />
+        <option value="$PROJECT_DIR$/Request框架/__init__.py" />
+        <option value="$PROJECT_DIR$/Request框架/Requests.py" />
         <option value="$PROJECT_DIR$/test_Allure/test_allure.py" />
+        <option value="$PROJECT_DIR$/test_Allure/test.py" />
+        <option value="$PROJECT_DIR$/Request框架/request验证.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1377" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="92" />
+    <option name="y" value="9" />
+    <option name="width" value="1038" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -340,7 +413,7 @@
     <property name="SearchEverywhereHistoryKey" value="命名需要&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -351,15 +424,15 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MB\Documents\python\wordcard" />
+      <recent name="C:\Users\MB\PycharmProjects\wordcard\test_wordcard" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MB\Documents\python\wordcard\Request框架" />
       <recent name="C:\Users\MB\Documents\python\wordcard" />
       <recent name="C:\Users\MB\Documents\python\wordcard\test_allure" />
       <recent name="C:\Users\MB\PycharmProjects\wordcard\报告" />
-      <recent name="C:\Users\MB\PycharmProjects\wordcard\test_wordcard" />
-      <recent name="C:\Users\MB\PycharmProjects\wordcard\验证flask框架" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MB\Documents\python\wordcard" />
       <recent name="C:\Users\MB\PycharmProjects\wordcard\test_wordcard" />
     </key>
   </component>
@@ -375,8 +448,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="Smtp_邮件发送" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.request验证">
+    <configuration name="Requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="报告及log" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,11 +457,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_allure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Request框架" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\MB\Documents\python\wordcard\test_allure\Smtp邮件发送.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\MB\Documents\python\wordcard\Request框架\request验证.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="报告及log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Allure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_Allure/log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="request验证" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="报告及log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Request框架" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Request框架/request验证.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -426,11 +541,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Allure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_Allure/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -439,66 +554,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Allure.test_allure.test_two" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for Request框架.request验证" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="报告及log" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Allure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Request框架" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Allure.test_allure.test_two&quot;" />
+      <option name="_new_target" value="&quot;Request框架.request验证&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_allure.test_one" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="报告及log" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Allure" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_allure.test_one&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_allure.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="报告及log" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Allure/test_allure.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.run" />
-      <item itemvalue="Python tests.pytest in test_allure.py" />
-      <item itemvalue="Python.Smtp_邮件发送" />
+      <item itemvalue="Python.log" />
+      <item itemvalue="Python tests.pytest for Request框架.request验证" />
+      <item itemvalue="Python.Requests" />
+      <item itemvalue="Python.request验证" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python tests.pytest for test_Allure.test_allure.test_two" />
-      <item itemvalue="Python tests.pytest for test_allure.test_one" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.request验证" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python tests.pytest for test_allure.test_one" />
-        <item itemvalue="Python tests.pytest in test_allure.py" />
-        <item itemvalue="Python tests.pytest for test_Allure.test_allure.test_two" />
-        <item itemvalue="Python.Smtp_邮件发送" />
+        <item itemvalue="Python.Requests" />
+        <item itemvalue="Python tests.pytest for Request框架.request验证" />
+        <item itemvalue="Python.log" />
       </list>
     </recent_temporary>
   </component>
@@ -516,35 +601,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_app_py - 2022.03.04 at 15h 55m 12s.xml">
-      <configuration name="pytest in test_app.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_allure_py - 2022.03.07 at 14h 06m 27s.xml">
-      <configuration name="pytest in test_allure.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_allure_test_two - 2022.03.07 at 14h 07m 00s.xml">
+    <history-entry file="pytest_for_test_allure_test_two - 2022.03.11 at 18h 08m 51s.xml">
       <configuration name="pytest for test_allure.test_two" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_allure_test_two - 2022.03.07 at 14h 09m 22s.xml">
+    <history-entry file="pytest_in_test_allure_py - 2022.03.11 at 18h 09m 44s.xml">
+      <configuration name="pytest in test_allure.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_allure_py - 2022.03.11 at 18h 10m 10s.xml">
+      <configuration name="pytest in test_allure.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_allure_test_two - 2022.03.11 at 18h 10m 59s.xml">
       <configuration name="pytest for test_allure.test_two" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_allure_py - 2022.03.07 at 14h 10m 00s.xml">
-      <configuration name="pytest in test_allure.py" configurationId="tests" />
+    <history-entry file="pytest_for_test_allure_test_two - 2022.03.11 at 18h 11m 54s.xml">
+      <configuration name="pytest for test_allure.test_two" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_allure_py - 2022.03.07 at 14h 10m 27s.xml">
-      <configuration name="pytest in test_allure.py" configurationId="tests" />
+    <history-entry file="pytest_for_test_allure_test_two - 2022.03.14 at 10h 21m 35s.xml">
+      <configuration name="pytest for test_allure.test_two" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_allure_py - 2022.03.07 at 14h 11m 04s.xml">
-      <configuration name="pytest in test_allure.py" configurationId="tests" />
+    <history-entry file="pytest_for_test_allure_test_thre - 2022.03.14 at 10h 32m 32s.xml">
+      <configuration name="pytest for test_allure.test_thre" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_allure_py - 2022.03.07 at 14h 11m 38s.xml">
-      <configuration name="pytest in test_allure.py" configurationId="tests" />
+    <history-entry file="pytest_for_test_allure_test_thre - 2022.03.14 at 10h 37m 14s.xml">
+      <configuration name="pytest for test_allure.test_thre" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_allure_py - 2022.03.07 at 15h 04m 15s.xml">
-      <configuration name="pytest in test_allure.py" configurationId="tests" />
+    <history-entry file="pytest_for_Requests_test_serchword - 2022.03.14 at 10h 49m 33s.xml">
+      <configuration name="pytest for Requests.test_serchword" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_allure_test_one - 2022.03.07 at 18h 36m 51s.xml">
-      <configuration name="pytest for test_allure.test_one" configurationId="tests" />
+    <history-entry file="pytest_for_Requests_test_serchword - 2022.03.14 at 10h 50m 39s.xml">
+      <configuration name="pytest for Requests.test_serchword" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="1">
@@ -557,20 +642,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1377" height="735" extended-state="0" />
+    <frame x="92" y="9" width="1038" height="874" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5762712" visible="true" weight="0.23973115" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5762712" visible="true" weight="0.321" />
       <window_info id="Structure" order="1" sideWeight="0.4220963" side_tool="true" weight="0.23973115" />
       <window_info id="Favorites" order="2" sideWeight="0.42372882" side_tool="true" weight="0.23973115" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3413793" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66592264" weight="0.3611111" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66592264" visible="true" weight="0.36223775" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.3224138" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" x="11" y="271" width="1344" height="186" id="Terminal" order="8" sideWeight="0.4985119" visible="true" weight="0.390625" />
+      <window_info anchor="bottom" x="11" y="271" width="1344" height="186" id="Terminal" order="8" sideWeight="0.4985119" weight="0.3954306" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3340774" side_tool="true" weight="0.33617747" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32405347" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -585,13 +670,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_wordcard/test2.txt" />
-    <entry file="file://$PROJECT_DIR$/allure-results/2d06c444-117a-4688-aad7-9bfa763791dd-result.json" />
-    <entry file="file://$PROJECT_DIR$/allure-results/0a2ab06e-a1e5-41ea-b6e5-00d7078aa43f-attachment.txt" />
-    <entry file="file://$PROJECT_DIR$/allure-report/index.html" />
-    <entry file="file://$PROJECT_DIR$/result/8f16d4c1-c153-4253-ac1e-d31f8c745bc2-result.json" />
-    <entry file="file://$PROJECT_DIR$/result/9fb605d7-0fde-44c0-a744-c4691173f3b4-attachment.txt" />
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/Lib/site-packages/requests/models.py" />
     <entry file="file://$PROJECT_DIR$/test_wordcard/example.log" />
     <entry file="file://$PROJECT_DIR$/report/index.html" />
     <entry file="file://$PROJECT_DIR$/report/ed416425-122a-41ef-a3e8-7427adcca177-result.json" />
@@ -620,9 +698,6 @@
     <entry file="file://$PROJECT_DIR$/test_wordcard/testf.py" />
     <entry file="file://$PROJECT_DIR$/../untitled/venv/Lib/site-packages/requests/exceptions.py" />
     <entry file="file://$PROJECT_DIR$/test_wordcard/selenium1.png" />
-    <entry file="file://$PROJECT_DIR$/flask框架/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/flask框架/sys_os.py" />
     <entry file="file://$PROJECT_DIR$/test_wordcard/result/report/index.html" />
     <entry file="file://$PROJECT_DIR$/test_wordcard/__init__.py" />
@@ -630,17 +705,18 @@
     <entry file="file://$PROJECT_DIR$/test_wordcard/jmeter.txt" />
     <entry file="file://$PROJECT_DIR$/test_allure/make_assert.py" />
     <entry file="file://$PROJECT_DIR$/test_Allure/result/report/index.html" />
+    <entry file="file://$PROJECT_DIR$/前端.html" />
+    <entry file="file://$PROJECT_DIR$/前端页/前端.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/验证pytest/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/logTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -655,10 +731,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flask框架/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmeter.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Smtp邮件发送.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        <state relative-caret-position="1025">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
           <folding>
             <element signature="e#19#32#0" expanded="true" />
           </folding>
@@ -672,24 +761,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jmeter.txt">
+    <entry file="file://$PROJECT_DIR$/test_Allure/log.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="452">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <marker date="1647225721549" expanded="true" signature="1291:1321" ph="..." />
+            <marker date="1647225721549" expanded="true" signature="1337:1519" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/Request框架/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="654" selection-start-line="654" selection-end-line="654" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+        <state relative-caret-position="175">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="30" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1646900490187" expanded="true" signature="664:671" ph="..." />
-            <marker date="1646900490187" expanded="true" signature="1670:1696" ph="..." />
+            <marker date="1647245825433" expanded="true" signature="1697:1723" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Allure/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="e#1#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Request框架/selenium1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Request框架/request验证.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="69" column="37" lean-forward="true" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+          <folding>
+            <element signature="e#1#42#0" expanded="true" />
           </folding>
         </state>
       </provider>

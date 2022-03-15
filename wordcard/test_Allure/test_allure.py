@@ -1,7 +1,7 @@
 import os
 import allure
+from test_Allure import log
 import logging
-
 import pymysql
 
 import pytest
@@ -72,7 +72,6 @@ def test_two():
 def test_thre():
     h=1
     assert(h == 1)
-
 if __name__ =="__main__":
     pytest.main(['-s'])
 ###################执行生成报告#########################

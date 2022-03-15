@@ -27,7 +27,6 @@
 # changelog:
 #
 import logging
-
 logger_name = 'example'
 logger = logging.getLogger(logger_name)
 logger.setLevel(logging.DEBUG)
@@ -46,9 +45,17 @@ file_handler.setFormatter(formatter)
 stream_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
-
-logger.info('info message')
-logger.debug('debug message')
-logger.warning('warn message')
-logger.error('error message')
-logger.critical('critical message')
+def info(name):
+    return logger.info(name)
+def debug(name):
+    return logger.debug(name)
+def warning(name):
+    return logger.warning(name)
+def error(name):
+    return logger.error(name)
+def critical(name):
+    return logger.critical(name)
+# logger.debug('debug message')
+# logger.warning('warn message')
+# logger.error('error message')
+# logger.critical('critical message')
