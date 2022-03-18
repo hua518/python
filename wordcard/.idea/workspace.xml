@@ -2,66 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505c9b07-b61f-4e7a-baec-3e590a688246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Request框架/case.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request框架/request验证.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端页/前端.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/喵喵机UI自动化/测试元素.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/194a42a8-b231-4915-9df1-b0883dae434b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/31cb16d6-296e-42df-a237-5aba9232fe71-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/44848c63-f32a-410e-9e03-02bf3560ae7e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/5ae5bf2c-9b34-4ef6-aaa3-12b8368389f4-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/7b024a3f-508c-43c1-9524-0caa9f699418-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/87a61250-47dd-4457-8a62-96c3fc04bb92-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/934e7e3c-99ac-4a10-a1d8-6b2bd8a2d3ae-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/c4ec0f03-3711-4e3d-a377-556100a3a3d3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/ca9d78b9-1e93-4c3b-a47b-b10492d65f71-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/e8fd4288-85cb-4e20-9ed1-7c78d1f6938f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/e9fc1405-8e8a-496f-9f68-e21fd993ace0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/attachments/2aad8154894bbdb7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/attachments/7a83d699dffc6df1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/test-cases/205cbef43e03921.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/test-cases/7bed174774381a4d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/test-cases/c4938feb6a9172e9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/report/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_Allure/logTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_Allure/test_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Allure/test_allure.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,22 +91,23 @@
     <session id="1797828277">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="4" />
           <entry key="png" value="1" />
-          <entry key="py" value="8" />
+          <entry key="py" value="13" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -171,21 +116,21 @@
           <entry key="HTML" value="4" />
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="8" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="32" />
+          <entry key="dummy" value="47" />
           <entry key="html" value="78" />
-          <entry key="py" value="1187" />
+          <entry key="py" value="2082" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="78" />
-          <entry key="PLAIN_TEXT" value="32" />
-          <entry key="Python" value="1187" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Python" value="2082" />
         </counts>
       </usages-collector>
     </session>
@@ -198,7 +143,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="-875">
               <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="30" />
               <folding>
                 <marker date="1647245825433" expanded="true" signature="1697:1723" ph="..." />
@@ -210,28 +155,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_Allure/log.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
+            <state relative-caret-position="183">
               <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
               <folding>
                 <marker date="1647225721549" expanded="true" signature="1291:1321" ph="..." />
                 <marker date="1647225721549" expanded="true" signature="1337:1519" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask框架/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Smtp邮件发送.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
-              <folding>
-                <element signature="e#19#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -260,14 +188,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Request框架/request验证.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="69" column="37" lean-forward="true" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+            <state relative-caret-position="1600">
+              <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
               <folding>
                 <element signature="e#1#42#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/测试元素.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="13" column="94" lean-forward="true" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="122" />
             </state>
           </provider>
         </entry>
@@ -299,11 +257,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1/ha.py" />
-        <option value="$PROJECT_DIR$/word/ha.py" />
-        <option value="$PROJECT_DIR$/test_wordcard/test_t.py" />
-        <option value="$PROJECT_DIR$/test_wordcard/woracard.py" />
-        <option value="$PROJECT_DIR$/test_wordcard/make.py" />
         <option value="$PROJECT_DIR$/test_wordcard/test_make.py" />
         <option value="$PROJECT_DIR$/test_wordcard/conftest.py" />
         <option value="$PROJECT_DIR$/test_wordcard/example.log" />
@@ -350,14 +303,19 @@
         <option value="$PROJECT_DIR$/test_Allure/test_allure.py" />
         <option value="$PROJECT_DIR$/test_Allure/test.py" />
         <option value="$PROJECT_DIR$/Request框架/request验证.py" />
+        <option value="$PROJECT_DIR$/喵喵机UI自动化/test_mb.py" />
+        <option value="$PROJECT_DIR$/喵喵机UI自动化/Driver.py" />
+        <option value="$PROJECT_DIR$/喵喵机UI自动化/测试元素.py" />
+        <option value="$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py" />
+        <option value="$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="92" />
-    <option name="y" value="9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="149" />
+    <option name="y" value="6" />
     <option name="width" value="1038" />
-    <option name="height" value="874" />
+    <option name="height" value="669" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -389,7 +347,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -400,12 +357,13 @@
             <path>
               <item name="报告及log" type="b2602c69:ProjectViewProjectNode" />
               <item name="wordcard" type="462c0819:PsiDirectoryNode" />
-              <item name="test_Allure" type="462c0819:PsiDirectoryNode" />
+              <item name="喵喵机UI自动化" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,8 +406,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.request验证">
-    <configuration name="Requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.测试元素">
+    <configuration name="测试元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="报告及log" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,11 +415,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Request框架" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/喵喵机UI自动化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\MB\Documents\python\wordcard\Request框架\request验证.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/喵喵机UI自动化/测试元素.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Driver封装" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="报告及log" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -478,11 +436,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Allure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/喵喵机UI自动化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_Allure/log.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mb_UI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="报告及log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/喵喵机UI自动化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -554,36 +533,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for Request框架.request验证" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="报告及log" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Request框架" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Request框架.request验证&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.run" />
-      <item itemvalue="Python.log" />
-      <item itemvalue="Python tests.pytest for Request框架.request验证" />
-      <item itemvalue="Python.Requests" />
       <item itemvalue="Python.request验证" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.mb_UI" />
+      <item itemvalue="Python.测试元素" />
+      <item itemvalue="Python.Driver封装" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.测试元素" />
+        <item itemvalue="Python.Driver封装" />
+        <item itemvalue="Python.mb_UI" />
         <item itemvalue="Python.request验证" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Requests" />
-        <item itemvalue="Python tests.pytest for Request框架.request验证" />
-        <item itemvalue="Python.log" />
       </list>
     </recent_temporary>
   </component>
@@ -642,21 +606,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="9" width="1038" height="874" extended-state="0" />
+    <frame x="149" y="6" width="1038" height="669" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5762712" visible="true" weight="0.321" />
       <window_info id="Structure" order="1" sideWeight="0.4220963" side_tool="true" weight="0.23973115" />
       <window_info id="Favorites" order="2" sideWeight="0.42372882" side_tool="true" weight="0.23973115" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3413793" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66592264" visible="true" weight="0.36223775" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.665" visible="true" weight="0.2647059" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.3224138" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" x="11" y="271" width="1344" height="186" id="Terminal" order="8" sideWeight="0.4985119" weight="0.3954306" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3340774" side_tool="true" weight="0.33617747" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.335" side_tool="true" weight="0.46354166" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32405347" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -670,11 +635,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_wordcard/example.log" />
-    <entry file="file://$PROJECT_DIR$/report/index.html" />
-    <entry file="file://$PROJECT_DIR$/report/ed416425-122a-41ef-a3e8-7427adcca177-result.json" />
-    <entry file="file://$PROJECT_DIR$/report/7e876970-e8b3-4104-8eee-45833e48dbc4-attachment.txt" />
-    <entry file="file://$PROJECT_DIR$/report/70bbbff2-33c7-428b-b1a4-7a90b8088775-result.json" />
     <entry file="file://$PROJECT_DIR$/report/7804d62b-6039-44ea-822f-28119ecaad84-result.json" />
     <entry file="file://$PROJECT_DIR$/report/96107490-14e4-4374-894b-3774ff050e7b-attachment.txt" />
     <entry file="file://$PROJECT_DIR$/report/f91ccc99-8dad-4229-8886-2c1bd20899e2-result.json" />
@@ -724,14 +684,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="e#1#10#0" expanded="true" />
-            <marker date="1646358461352" expanded="true" signature="1460:1461" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flask框架/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Request框架/__init__.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="654" selection-start-line="654" selection-end-line="654" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Allure/test.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Smtp邮件发送.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding>
+            <element signature="e#19#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/jmeter.txt">
@@ -741,15 +727,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Smtp邮件发送.py">
+    <entry file="file://$PROJECT_DIR$/Request框架/request验证.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        <state relative-caret-position="1600">
+          <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
           <folding>
-            <element signature="e#19#32#0" expanded="true" />
+            <element signature="e#1#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Request框架/selenium1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Allure/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <marker date="1647225721549" expanded="true" signature="1291:1321" ph="..." />
+            <marker date="1647225721549" expanded="true" signature="1337:1519" ph="..." />
           </folding>
         </state>
       </provider>
@@ -761,30 +758,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
-          <folding>
-            <marker date="1647225721549" expanded="true" signature="1291:1321" ph="..." />
-            <marker date="1647225721549" expanded="true" signature="1337:1519" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Request框架/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages/requests/sessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="654" selection-start-line="654" selection-end-line="654" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="-875">
           <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="30" />
           <folding>
             <marker date="1647245825433" expanded="true" signature="1697:1723" ph="..." />
@@ -792,26 +768,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/test.py">
+    <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/测试元素.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        <state relative-caret-position="50">
+          <caret line="13" column="94" lean-forward="true" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding>
-            <element signature="e#1#42#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Request框架/selenium1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Request框架/request验证.py">
+    <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="69" column="37" lean-forward="true" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
-          <folding>
-            <element signature="e#1#42#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
         </state>
       </provider>
     </entry>
