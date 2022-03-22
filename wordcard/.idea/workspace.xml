@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505c9b07-b61f-4e7a-baec-3e590a688246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/喵喵机UI自动化/测试元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读取文档/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读取文档/excel读取.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Request框架/case.xls" beforeDir="false" afterPath="$PROJECT_DIR$/读取文档/case.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Request框架/request验证.py" beforeDir="false" afterPath="$PROJECT_DIR$/Request框架/request验证.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI自动化/喵喵机UI自动化/Driver封装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI自动化/喵喵机UI自动化/mb_UI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/喵喵机UI自动化/测试元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI自动化/喵喵机UI自动化/测试元素.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,23 +95,24 @@
     <session id="1797828277">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="4" />
           <entry key="png" value="1" />
-          <entry key="py" value="13" />
+          <entry key="py" value="16" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -116,21 +121,21 @@
           <entry key="HTML" value="4" />
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="13" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="47" />
           <entry key="html" value="78" />
-          <entry key="py" value="2082" />
+          <entry key="py" value="2117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="78" />
           <entry key="PLAIN_TEXT" value="47" />
-          <entry key="Python" value="2082" />
+          <entry key="Python" value="2117" />
         </counts>
       </usages-collector>
     </session>
@@ -140,31 +145,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-875">
-              <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="30" />
-              <folding>
-                <marker date="1647245825433" expanded="true" signature="1697:1723" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Allure/log.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
-              <folding>
-                <marker date="1647225721549" expanded="true" signature="1291:1321" ph="..." />
-                <marker date="1647225721549" expanded="true" signature="1337:1519" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -191,41 +171,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Request框架/request验证.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1600">
-              <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
-              <folding>
-                <element signature="e#1#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-275">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py">
+        <entry file="file://$PROJECT_DIR$/读取文档/excel读取.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+            <state relative-caret-position="75">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/测试元素.py">
+        <entry file="file://$PROJECT_DIR$/UI自动化/喵喵机UI自动化/mb_UI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="13" column="94" lean-forward="true" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="122" />
+            <state relative-caret-position="175">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI自动化/喵喵机UI自动化/Driver封装.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI自动化/喵喵机UI自动化/测试元素.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="16" column="126" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="126" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask框架/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -257,9 +249,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_wordcard/test_make.py" />
-        <option value="$PROJECT_DIR$/test_wordcard/conftest.py" />
-        <option value="$PROJECT_DIR$/test_wordcard/example.log" />
         <option value="$PROJECT_DIR$/test_wordcard/test_one.py" />
         <option value="$PROJECT_DIR$/test_wordcard/logTest.py" />
         <option value="$PROJECT_DIR$/test_wordcard/logger.ini" />
@@ -302,16 +291,19 @@
         <option value="$PROJECT_DIR$/Request框架/Requests.py" />
         <option value="$PROJECT_DIR$/test_Allure/test_allure.py" />
         <option value="$PROJECT_DIR$/test_Allure/test.py" />
-        <option value="$PROJECT_DIR$/Request框架/request验证.py" />
         <option value="$PROJECT_DIR$/喵喵机UI自动化/test_mb.py" />
         <option value="$PROJECT_DIR$/喵喵机UI自动化/Driver.py" />
         <option value="$PROJECT_DIR$/喵喵机UI自动化/测试元素.py" />
         <option value="$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py" />
         <option value="$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py" />
+        <option value="$PROJECT_DIR$/UI自动化/测试元素.py" />
+        <option value="$PROJECT_DIR$/UI自动化/喵喵机UI自动化/测试元素.py" />
+        <option value="$PROJECT_DIR$/Request框架/request验证.py" />
+        <option value="$PROJECT_DIR$/读取文档/excel读取.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="149" />
     <option name="y" value="6" />
     <option name="width" value="1038" />
@@ -357,7 +349,7 @@
             <path>
               <item name="报告及log" type="b2602c69:ProjectViewProjectNode" />
               <item name="wordcard" type="462c0819:PsiDirectoryNode" />
-              <item name="喵喵机UI自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="Request框架" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -382,15 +374,15 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MB\Documents\python\wordcard" />
-      <recent name="C:\Users\MB\PycharmProjects\wordcard\test_wordcard" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MB\Documents\python\wordcard\读取文档" />
+      <recent name="C:\Users\MB\Documents\python\wordcard\UI自动化\喵喵机UI自动化" />
       <recent name="C:\Users\MB\Documents\python\wordcard\Request框架" />
       <recent name="C:\Users\MB\Documents\python\wordcard" />
       <recent name="C:\Users\MB\Documents\python\wordcard\test_allure" />
-      <recent name="C:\Users\MB\PycharmProjects\wordcard\报告" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MB\Documents\python\wordcard" />
       <recent name="C:\Users\MB\PycharmProjects\wordcard\test_wordcard" />
     </key>
   </component>
@@ -406,7 +398,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.测试元素">
+  <component name="RunManager" selected="Python.excel读取">
+    <configuration name="测试元素 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="报告及log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI自动化/喵喵机UI自动化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UI自动化/喵喵机UI自动化/测试元素.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="测试元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="报告及log" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -449,7 +462,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mb_UI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="excel读取" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="报告及log" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,11 +470,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/喵喵机UI自动化" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/读取文档" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/读取文档/excel读取.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -512,42 +525,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="报告及log" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Allure" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_Allure/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.run" />
       <item itemvalue="Python.request验证" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.mb_UI" />
       <item itemvalue="Python.测试元素" />
       <item itemvalue="Python.Driver封装" />
+      <item itemvalue="Python.测试元素 (1)" />
+      <item itemvalue="Python.excel读取" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.excel读取" />
+        <item itemvalue="Python.request验证" />
+        <item itemvalue="Python.测试元素 (1)" />
         <item itemvalue="Python.测试元素" />
         <item itemvalue="Python.Driver封装" />
-        <item itemvalue="Python.mb_UI" />
-        <item itemvalue="Python.request验证" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -614,7 +606,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.42372882" side_tool="true" weight="0.23973115" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3413793" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.665" visible="true" weight="0.2647059" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.665" visible="true" weight="0.43333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -635,8 +627,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/report/7804d62b-6039-44ea-822f-28119ecaad84-result.json" />
-    <entry file="file://$PROJECT_DIR$/report/96107490-14e4-4374-894b-3774ff050e7b-attachment.txt" />
     <entry file="file://$PROJECT_DIR$/report/f91ccc99-8dad-4229-8886-2c1bd20899e2-result.json" />
     <entry file="file://$PROJECT_DIR$/report/d0e5409e-cb69-49d8-8674-544accbab500-attachment.txt" />
     <entry file="file://$PROJECT_DIR$/result/a2245c67-32e7-4b09-824b-64fa95b43679-attachment.txt" />
@@ -680,13 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask框架/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flask框架/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -711,38 +694,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="30" />
           <folding>
-            <element signature="e#19#32#0" expanded="true" />
+            <marker date="1647245825433" expanded="true" signature="1697:1723" ph="..." />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jmeter.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Request框架/request验证.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
-          <folding>
-            <element signature="e#1#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Request框架/selenium1.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Allure/log.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="1400">
           <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
           <folding>
             <marker date="1647225721549" expanded="true" signature="1291:1321" ph="..." />
@@ -751,6 +718,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/验证pytest/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -758,37 +728,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Allure/test_allure.py">
+    <entry file="file://$PROJECT_DIR$/jmeter.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-875">
-          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <marker date="1647245825433" expanded="true" signature="1697:1723" ph="..." />
-          </folding>
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/测试元素.py">
+    <entry file="file://$PROJECT_DIR$/UI自动化/喵喵机UI自动化/Driver封装.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="13" column="94" lean-forward="true" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="122" />
+        <state relative-caret-position="175">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/mb_UI.py">
+    <entry file="file://$PROJECT_DIR$/Request框架/selenium1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI自动化/喵喵机UI自动化/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI自动化/喵喵机UI自动化/mb_UI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/喵喵机UI自动化/Driver封装.py">
+    <entry file="file://$PROJECT_DIR$/UI自动化/喵喵机UI自动化/测试元素.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        <state relative-caret-position="25">
+          <caret line="16" column="126" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask框架/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Request框架/request验证.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/读取文档/excel读取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
         </state>
       </provider>
     </entry>

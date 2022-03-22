@@ -1,5 +1,5 @@
-from appium import webdriver
-from 喵喵机UI自动化 import Driver封装
+from UI自动化.喵喵机UI自动化 import Driver封装
+
 Driver封装.getdriver().back()
 # driver.swipe(start_x=538,start_y=1504,end_x=538,end_y=404)   ####页面拖拽
 # driver.find_element_by_android_uiautomator('new UiSelector().text("喵喵机")').click()   ####原生定位
